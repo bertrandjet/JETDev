@@ -1,0 +1,44 @@
+*Navigation*
+Jet Dev
+About
+Services
+Portfolio
+Blog
+Contact
+
+*Header*
+<background color>  hazelnut (#d1af94)
+<h1>JET Dev
+<h3> Web Solutions & Strategies for Today’s Entrepreneur
+<about btn> Find Out More
+
+*About*
+<background color> pale dogwood (#efcec5)
+<h2> A modern web design duo!
+<p> The JET Dev pair are a team of entrepreneurs, who want to bring a web presence to every business out there! Many businesses fail, not because of their product but their display. A business’ website is their storefront, and we want it to be a good one!
+
+*Services*
+<background color> lapis blue (#0c4d8a)
+1. Website Development & Design
+	We will build you a website to your specifications, which will be your hub for all of your business’s activities, from an in-site cart, to your very own blog!
+2. Blogging
+	Modern day websites all have blogs, but maintaining a blog is a chore in and of itself. Many people do not know what to say, what updates to provide, or simply do not want to spend their time doing this. With our top notch writing skills, and our regular consultations with our clients, our blogging services can be at your disposal!
+3. Site Maintenance 
+	The internet changes all the time! With these changes, and updates to phones and computers, or even the browser being used, a website can quickly fall out of date. For a monthly fee, avoid this happening to your website.  Oftentimes, there are minor things which fall off, but as the errors mount, the professional appeal begins to wear off.
+
+*Callout*
+Insert motto here
+*Portfolio*
+<background color> Primrose Yellow (#f6d257)
+*Call to Action*
+<background color> greenery (#88b14b)
+<h3> To request a quote, or for any other questions, please click below!
+<btn> Contact us (link to email)
+
+*No Map Section*
+
+*Footer*
+<background color> dogwood (#efcec5)
+Jet Dev
+(843) 619-7257
+jetwebdevelopment825@gmail.com
