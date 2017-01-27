@@ -171,7 +171,8 @@ hr.small {
 /* Services */
 
 .services {
-    padding: 50px 0;
+    padding left: 5%;
+    padding right: 5%;
 	background-color: #0c4d8a;
 	text-align: center;
 }
