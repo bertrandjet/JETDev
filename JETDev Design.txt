@@ -9,7 +9,7 @@ Contact
 *Header*
 <background color>  hazelnut (#d1af94)
 <h1>JET Dev
-<h3> Web Solutions & Strategies for Today’s Entrepreneur
+<h3> Web Solutions & Strategies for Small Businesses & Today’s Entrepreneur
 <about btn> Find Out More
 
 *About*
